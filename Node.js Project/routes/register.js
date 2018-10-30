@@ -9,4 +9,6 @@ router.get('/', function(req, res, next) {
     res.render('index', { title: 'Register Page' , date: datefin });
 });
 
+//Kawda hutto ee
+
 module.exports = router;
