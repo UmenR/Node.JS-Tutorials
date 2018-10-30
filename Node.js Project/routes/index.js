@@ -10,4 +10,6 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Index Page' , date: datefin });
 });
 
+//sample edit
+
 module.exports = router;
